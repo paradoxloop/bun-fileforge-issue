@@ -1,0 +1,16 @@
+{
+  "name": "bun-fileforge-error",
+  "module": "index.tsx",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@fileforge/react-print": "^0.1.146",
+    "@types/react": "^18.3.4",
+    "react": "^18.3.1"
+  }
+}
